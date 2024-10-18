@@ -54,8 +54,8 @@
         <ul class="flex space-x-6">
             <li><a href="#home" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Beranda</a></li>
             <li><a href="#about" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Tentang</a></li>
-            <li><a href="#services" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Masuk</a></li>
-            <li><a href="#contact" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Daftar</a></li>
+            <li><a href="/login" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Masuk</a></li>
+            <li><a href="/signup" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Daftar</a></li>
         </ul>
     </nav>
 
