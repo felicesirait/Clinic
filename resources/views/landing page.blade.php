@@ -55,7 +55,7 @@
             <li><a href="#home" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Beranda</a></li>
             <li><a href="#about" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Tentang</a></li>
             <li><a href="/login" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Masuk</a></li>
-            <li><a href="/signup" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Daftar</a></li>
+            <li><a href="/registrasi" class="hover:bg-blue-500 px-3 py-2 rounded-md font-bold">Registrasi</a></li>
         </ul>
     </nav>
 
@@ -66,7 +66,7 @@
             <div>
                 <h1 class="text-4xl md:text-6xl font-bold mb-4 animate-fadeInUp">Selamat datang di D'Clinic!</h1>
                 <p class="text-lg md:text-xl mb-6 animate-fadeInUp">D'Clinic menyediakan layanan kesehatan lengkap dengan tenaga medis profesional dan fasilitas terbaik, siap melayani kebutuhan kesehatan Anda dan keluarga.</p>
-                <a href="#about" class="bg-blue-500 hover:bg-blue-600 text-white py-3 px-6 rounded-lg">Get Started</a>
+                <a href="/formpasien" class="bg-blue-500 hover:bg-blue-600 text-white py-3 px-6 rounded-lg">Portal Pasien</a>
             </div>
         </div>
     </section>
